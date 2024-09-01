@@ -1,5 +1,7 @@
+
+<p align="center">
 <a href="https://1kbgz.com">
   <img width=250 src="https://raw.githubusercontent.com/1kbgz/.github/main/logo.png" />
 </a>
-
-`1kbgz is a development studio based in nyc.`
+<code>1kbgz is a development studio based in nyc.</code>
+</p>
